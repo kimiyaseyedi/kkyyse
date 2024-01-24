@@ -1,5 +1,5 @@
 # 💫 About Me:
-🙋🏻‍♀️ HEY GUYS...<br>😇 I'm Kimiya Seyedi / 24yo<br>🏡 I'm currently living in TEHRAN / IRAN<br>🔭 I’m currently working on Digikala.com (replica)<br>🌱 I’m currently learning Java Script
+🙋🏻‍♀️ HEY GUYS...<br>😇 I'm Kimiya Seyedi / 24yo<br>🏡 I'm currently living in TEHRAN / IRAN<br>🌱 I’m currently learning Java Script
 
 
 ## 🌐 Socials:
